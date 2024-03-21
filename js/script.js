@@ -8,7 +8,7 @@
 /**
  * This function calculates area and perimeter of the triangle
  */
-function calculateAreaOfRectangle () {
+function calculateAreaOfTriangle () {
   // input
   const base = parseInt(document.getElementById('base-of-triangle').value)
   const height = parseInt(document.getElementById('height-of-triangle').value)
