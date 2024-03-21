@@ -1,4 +1,31 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Clara
+* Created on: Mar 2024
 * This file contains the CSS for index.html
 */
+
+.mdl-layout__header-row {
+  align-items: center;
+  justify-content: center;
+}
+
+.mdl-layout__content {
+  padding-left: 15pt;
+  padding-right: 15pt;
+  padding-top: 15pt;
+}
+
+.mdl-ripple {
+  background: #000;
+  opacity: 0.001;
+}
+
+body {
+  background-color: rgb(173, 129, 243);
+}
+
+p {
+  color: white;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.5rem;
+  padding-top: 5pt;
+}
